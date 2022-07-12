@@ -19,6 +19,12 @@ function sumadorEdades(cantidadAlumnos){
 
 let resultadoFinal = alert("el promedio de edad es" + sumaTotal / cantidadAlumnos )
 
+if (resultadoFinal < 10) {
+    console.log("dios me costo 10 huevos jaja")
+} else {
+    console.log("de cualquier forma me costo 10 huevos jaja")
+}
+
 
 
 
